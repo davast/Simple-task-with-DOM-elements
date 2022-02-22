@@ -1,5 +1,5 @@
-const clientId = "AGB2WPQRWFVJDQLY2H4N1MTYBYST2IHESPDCKEDHXJENIISI";
-const clientSecret = "0PUFYTL14PZXIAVIQW11FFRF5MZBAI0ZRK2MZ1GBBVFSUVI1";
+const clientId = "";
+const clientSecret = "";
 const url = "https://api.foursquare.com/v2/venues/explore?near=";
 
 class Adder {
